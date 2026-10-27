@@ -1,0 +1,6 @@
+pandas
+torch
+torchvision
+transformers
+scikit-learn
+matplotlib
